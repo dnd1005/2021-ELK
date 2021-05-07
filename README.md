@@ -6,7 +6,7 @@
   
 ##  시스템 구성도 
 
-   ![screenshot](block_diagram.PNG)
+   ![screenshot](diagram.PNG)
 
 ##  환경 구성 
 * Windows 7 32bit (Endpoint 환경) - VM 구성
@@ -20,13 +20,11 @@
     > https://github.com/SwiftOnSecurity/sysmon-config
     
 * Elastic Stack 64bit (Server 환경) - Host
-  - Elastic Logstach (Optional) 설치
-    > https://www.elastic.co/kr/downloads/logstash
 
-  - Elastic Elasticsearch 설치
+  - Elastic Elasticsearch-7.12.0-windows-x86_64 설치
     > https://www.elastic.co/kr/downloads/elasticsearch
 
-  - Elastic Kibana 설치
+  - Elastic Kibana-7.12.0-windows-x86	 설치
     > https://www.elastic.co/kr/downloads/kibana
 
 * Ubuntu 18.04 64bit 환경
