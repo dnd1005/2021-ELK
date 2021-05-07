@@ -4,13 +4,18 @@
 * Open Source Endpoint monitoring 
   - https://github.com/DearBytes/Opensource-Endpoint-Monitoring
   
-##***시스템 구성도*** 
+## 시스템 구성도
 
    ![screenshot](diagram.PNG)
 
 ##  환경 구성 
-* Windows 7 32bit (Endpoint 환경) - VM 구성
-  - Python 2.7 32bit
+> Windows 7 32bit (Endpoint 환경) - VM 구성
+
+| 프로그램명                 | 버전                        | 다운로드              |  
+|:---: | :---: | :---: |  
+|  Python            | 2.7.18 32bit            | 참잘했어요. |  
+| 영희           | 50            | 분발하세요. |
+  
   - Elastic Winlogbeat 7.6.2
   - sysmon
     > microsoft의 sysinternals.com
