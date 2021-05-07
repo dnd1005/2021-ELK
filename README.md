@@ -6,7 +6,7 @@
   
 ##  시스템 구성도 
 
-   ![screenshot](diagram.PNG)
+   ![screenshot](block_diagram.PNG)
 
 ##  환경 구성 
 * Windows 7 32bit (Endpoint 환경) - VM 구성
