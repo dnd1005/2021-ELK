@@ -42,6 +42,11 @@
 | Program                | version                      | download            |  
 |:---: | :---: | :---: |  
 |  Python            | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
+|  Virtual Box         | 6.1.22           |https://www.virtualbox.org/wiki/Downloads/ |  
+
+
+
+
 
 ##  실행 방법 
 
@@ -124,6 +129,3 @@
 [[ Elastalert ]]
 * pip install 오류
   > python version 3.6 다운
-idk3669
-* air83
-
