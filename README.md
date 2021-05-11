@@ -9,35 +9,36 @@
    ![screenshot](diagram.PNG)
 
 ##  환경 구성 
-> Windows 7 32bit (Endpoint 환경) - VM 구성
-
-| 프로그램명                 | 버전                        | 다운로드              |  
-|:---: | :---: | :---: |  
-|  Python            | 2.7.18 32bit            | 참잘했어요. |  
-| 영희           | 50            | 분발하세요. |
+> Windows 7 32bit (Endpoint 환경) - Guest OS
   
-  - Elastic Winlogbeat 7.6.2
-  - sysmon
-    > microsoft의 sysinternals.com
-  - Red Team Automation (Red Team용 MITRE ATT@CK 기반 malicious attack 발생)
-    > https://github.com/endgameinc/RTA
-  - SwiftOnSecurity의 sysmon-config (보안로그 발생을 위한 sysmon 환경 파일)
-    > https://github.com/SwiftOnSecurity/sysmon-config
+  
+| Program                | 설명                  | download            |  
+|:---: | :---: | :---: |  
+|  Red Team Automation          | Red Team용 MITRE ATT@CK 기반 malicious attack 발생           |  https://github.com/endgameinc/RTA |
+|  sysmon           |            | microsoft의 sysinternals.com |
+|  SwiftOnSecurity의 sysmon-config        | 보안로그 발생을 위한 sysmon 환경 파일         |  https://github.com/SwiftOnSecurity/sysmon-config|
+|  Elastic Winlogbeat 7.6.2       |         |  https://github.com/SwiftOnSecurity/sysmon-config|
+
+
+
+  
+ * Elastalert  (Ubuntu 18.04 64bit 환경) - Guest OS
+| Program                | version                      | download            |  
+|:---: | :---: | :---: |  
+|  elastalert          | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
+
+  
     
 * Elastic Stack 64bit (Server 환경) - Host
+| Program                | version                      | download            |  
+|:---: | :---: | :---: |  
+|  Python            | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
+| Elastic Search          | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/elasticsearch-7-11-2 |
+| Kibana        | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/kibana-7-11-2 |
+  
 
-  - Elastic Elasticsearch-7.12.0-windows-x86_64 설치
-    > https://www.elastic.co/kr/downloads/elasticsearch
 
-  - Elastic Kibana-7.12.0-windows-x86	 설치
-    > https://www.elastic.co/kr/downloads/kibana
 
-* Ubuntu 18.04 64bit 환경
-  - Yelp의 elastalert
-    > https://github.com/Yelp/elastalert
-
-  - elastalert 설치
-    > https://elastalert.readthedocs.io/en/latest/running_elastalert.html
 
 ##  실행 방법 
 
