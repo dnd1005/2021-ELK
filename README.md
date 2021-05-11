@@ -36,13 +36,14 @@
 |:---: | :---: | :---: |  
 | Elastic Search          | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/elasticsearch-7-11-2 |
 | Kibana        | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/kibana-7-11-2 |
+|  Virtual Box         | 6.1.22           |https://www.virtualbox.org/wiki/Downloads/ |  
   
 
 ### 공용 프로그램
 | Program                | version                      | download            |  
 |:---: | :---: | :---: |  
 |  Python            | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
-|  Virtual Box         | 6.1.22           |https://www.virtualbox.org/wiki/Downloads/ |  
+
 
 
 
