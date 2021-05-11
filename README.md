@@ -22,14 +22,16 @@
 
 
   
- * Elastalert  (Ubuntu 18.04 64bit 환경) - Guest OS
+ > Elastalert  (Ubuntu 18.04 64bit 환경) - Guest OS
+  
 | Program                | version                      | download            |  
 |:---: | :---: | :---: |  
 |  elastalert          | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
 
   
     
-* Elastic Stack 64bit (Server 환경) - Host
+> Elastic Stack 64bit (Server 환경) - Host
+
 | Program                | version                      | download            |  
 |:---: | :---: | :---: |  
 |  Python            | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
