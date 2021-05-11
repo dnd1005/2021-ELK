@@ -123,8 +123,6 @@
 [[ Elastalert ]]
 * pip install 오류
   > python version 3.6 다운
-## Contributors
-* maxup37
-* idk3669
+idk3669
 * air83
 
