@@ -9,6 +9,19 @@
    ![screenshot](diagram.PNG)
 
 ##  환경 구성 
+
+    
+### Elastic Stack 64bit (Server 환경) - Host
+
+| Program                | version                      | download            |  
+|:---: | :---: | :---: |  
+| Elastic Search          | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/elasticsearch-7-11-2 |
+| Kibana        | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/kibana-7-11-2 |
+|  Virtual Box         | 6.1.22           |https://www.virtualbox.org/wiki/Downloads/ |  
+  
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Windows 7 32bit (Endpoint 환경) - Guest OS
   
   
@@ -28,15 +41,6 @@
 |:---: | :---: | :---: |  
 |  elastalert          | 2.7.18 32bit            | https://www.python.org/downloads/release/python-2718/ |  
 
-  
-    
-### Elastic Stack 64bit (Server 환경) - Host
-
-| Program                | version                      | download            |  
-|:---: | :---: | :---: |  
-| Elastic Search          | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/elasticsearch-7-11-2 |
-| Kibana        | 7.11.2          | https://www.elastic.co/kr/downloads/past-releases/kibana-7-11-2 |
-|  Virtual Box         | 6.1.22           |https://www.virtualbox.org/wiki/Downloads/ |  
   
 
 ### 공용 프로그램
