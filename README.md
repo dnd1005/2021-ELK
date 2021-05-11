@@ -15,8 +15,8 @@
 | Program                | 설명                  | download            |  
 |:---: | :---: | :---: |  
 |  Red Team Automation          | Red Team용 MITRE ATT@CK 기반 malicious attack 발생           |  https://github.com/endgameinc/RTA |
-|  sysmon           |            | microsoft의 sysinternals.com |
 |  SwiftOnSecurity의 sysmon-config        | 보안로그 발생을 위한 sysmon 환경 파일         |  https://github.com/SwiftOnSecurity/sysmon-config|
+|  sysmon           |            | microsoft의 sysinternals.com |
 |  Elastic Winlogbeat 7.6.2       |         |  https://github.com/SwiftOnSecurity/sysmon-config|
 
 
