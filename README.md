@@ -9,7 +9,7 @@
    ![screenshot](diagram.PNG)
 
 ##  환경 구성 
-# Windows 7 32bit (Endpoint 환경) - Guest OS
+### Windows 7 32bit (Endpoint 환경) - Guest OS
   
   
 | Program                | 설명                  | download            |  
@@ -22,7 +22,7 @@
 
 
   
- # Elastalert  (Ubuntu 18.04 64bit 환경) - Guest OS
+ ### Elastalert  (Ubuntu 18.04 64bit 환경) - Guest OS
   
 | Program                | version                      | download            |  
 |:---: | :---: | :---: |  
@@ -30,7 +30,7 @@
 
   
     
-# Elastic Stack 64bit (Server 환경) - Host
+### Elastic Stack 64bit (Server 환경) - Host
 
 | Program                | version                      | download            |  
 |:---: | :---: | :---: |  
